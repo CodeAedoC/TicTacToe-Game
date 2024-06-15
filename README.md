@@ -9,3 +9,6 @@ Steps To Run The Program:
 <br>
 1.pip install pygame
 <br>
+![]("Start-menu.png")
+![]("Main.png")
+![]("Restart.png")
